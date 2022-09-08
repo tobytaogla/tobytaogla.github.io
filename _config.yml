@@ -10,21 +10,27 @@
 ############################
 
 # Name of website
-title: My Website
+title: Feng Tao 
 
 # Your name to show in the footer
-author: Some Person
+author: Feng Tao
 
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Home: "home"
+  #About Me: "about"
+  Projects: "projects"
+  Publications: "publications"
+  Presentation: "presentation"
+  Github: "https://github.com/tobytaogla"
+  #About Me: "aboutme"
+  #Resources:
+  #  - Beautiful Jekyll: "https://beautifuljekyll.com"
+  #  - Learn markdown: "https://www.markdowntutorial.com/"
+  #Author's home: "https://deanattali.com"
 
 ################
 # --- Logo --- #
