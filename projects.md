@@ -10,5 +10,5 @@ layout: page
 [Analysis pipeline](https://github.com/tobytaogla/Athaliana_genus_duplicate_gene)
 
 #### Optimization and Application of non-native *Phragmites australis* Transcriptome Assemblies   
-[Analysis pipeline](https://github.com/tobytaogla/Phragmites-australis-transcriptome-optimal-assembly)
+[Analysis pipeline](https://github.com/tobytaogla/Phragmites-australis-transcriptome-optimal-assembly)   
 [Results](https://fanlab.wayne.edu/resource/Phragmite_australis_transcriptome.html)
