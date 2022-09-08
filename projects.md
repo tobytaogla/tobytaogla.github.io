@@ -24,8 +24,7 @@ layout: page
 #### Languages and genes  
 *	Identified the link between typological differences among languages with genetic differences in cooperation with communication sciences researchers.
 *	Retrieved alleles frequency information via public databases and discovered SNPs linked to certain language features.
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=Uu2feVLBsrM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+[Presentation](https://www.youtube.com/watch?v=Uu2feVLBsrM)  
 
 #### Evolutionary fates and dynamic functionalization of young duplicate genes in *Arabidopsis* genomes
 *	Employed a phylogenetic approach with five tissues RNA-seq data from three closely related plant species for classification of genomic evolution of young duplicate genes. 
