@@ -9,7 +9,7 @@ layout: page
 #### Summary
 
 
-+ Bioinformatics Analyst, Molecular Evolution Scientist, Recent Ph.D. Graduate in Wayne State University, Detroit, MI
++ Bioinformatician, Molecular Evolution Scientist, Recent Ph.D. Graduate in Wayne State University, Detroit, MI
 + 8+ years of research experience in bioinformatical analyses, plant molecular evolutionary studies experience.
 + I am also familiar with molecular biology, and plant phenomics. 
 + I have deep experience with using NGS bioinformatics tools in high-performance computing, especially for RNA-seq, ChIP-seq, MN-seq, transcriptome assembly, etc. 
