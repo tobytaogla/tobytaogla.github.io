@@ -43,18 +43,18 @@ Supervised lab undergraduate and rotation graduate students via experiment desig
 #### Educational Experience   
 **2013.9 - 2022.8**  
 Ph.D. of Bioinformatics  
-Molecular Evolution and Genetics 
-Wayne State University
+Molecular Evolution and Genetics   
+Wayne State University   
 Detroit, Michigan, USA
 
 **2010.9 - 2013.6**  
 M.Sc. of Evolution Biology and Systematics  
-University of Glasgow
+University of Glasgow   
 Glasgow, UK
 
 **2006.9 - 2010.6**  
-B.Sc. of Biological Science  
-Lanzhou University
+B.Sc. of Biological Science   
+Lanzhou University   
 Lanzhou, Gansu, China
 
 #### Research interests   
