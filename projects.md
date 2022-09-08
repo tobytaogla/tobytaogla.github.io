@@ -15,7 +15,7 @@ layout: page
 [Analysis pipeline](https://github.com/tobytaogla/Athaliana_genus_duplicate_gene)
 
 #### Optimization and Application of non-native *Phragmites australis* Transcriptome Assemblies   
-*	*De novo* assembled 49 *P. australis* transcriptomes through four assembly tools and multiple parameters and selected the optimal one via comprehensive quality assessments.
+*	_.De novo._ assembled 49 _.Phragmites australis._ transcriptomes through four assembly tools and multiple parameters and selected the optimal one via comprehensive quality assessments.
 *	Incorporated 13 strategies and six databases for annotating the selected transcriptome.
 *	Steered downstream analyses, such as identifying differentially expressed transcripts and putative transcription factors as well as detecting simple sequence repeat markers to deliver a valued resource for future *P. australis* studies.  
 [Analysis pipeline](https://github.com/tobytaogla/Phragmites-australis-transcriptome-optimal-assembly)   
@@ -24,11 +24,8 @@ layout: page
 #### Languages and genes  
 *	Identified the link between typological differences among languages with genetic differences in cooperation with communication sciences researchers.
 *	Retrieved alleles frequency information via public databases and discovered SNPs linked to certain language features.
- <iframe width="560" height="315"
-src="https://www.youtube.com/watch?v=Uu2feVLBsrM" 
-frameborder="0" 
-allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=Uu2feVLBsrM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 #### Evolutionary fates and dynamic functionalization of young duplicate genes in *Arabidopsis* genomes
 *	Employed a phylogenetic approach with five tissues RNA-seq data from three closely related plant species for classification of genomic evolution of young duplicate genes. 
