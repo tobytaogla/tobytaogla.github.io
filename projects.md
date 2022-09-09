@@ -11,7 +11,6 @@ layout: page
 *	Identified protein putative novel function encoded by tandem duplicate genes through analyses in domain, key residue, and protein structure comparisons.
 *	Detected epigenetic modifications within tandem duplicate genes’ regulatory regions via ChIP-seq and MN-Seq analysis.
 *	Studied divergent phenotypic changes by tandem duplicate genes through plant growth traits extraction from automated plant rosette images.
-
 [Analysis pipeline](https://github.com/tobytaogla/Athaliana_genus_duplicate_gene)
 
 #### Optimization and Application of non-native *Phragmites australis* Transcriptome Assemblies   
@@ -23,7 +22,7 @@ layout: page
 
 #### Languages and genes  
 *	Identified the link between typological differences among languages with genetic differences in cooperation with communication sciences researchers.
-*	Retrieved alleles frequency information via public databases and discovered SNPs linked to certain language features.
+*	Retrieved alleles frequency information via public databases and discovered SNPs linked to certain language features.   
 [Presentation](https://www.youtube.com/watch?v=Uu2feVLBsrM)  
 
 #### Evolutionary fates and dynamic functionalization of young duplicate genes in *Arabidopsis* genomes
