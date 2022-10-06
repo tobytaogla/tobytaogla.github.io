@@ -8,7 +8,7 @@ layout: page
 
 \# These authors contributed equally
 
-*	**Feng Tao**, Vishwanath Sollapura, Laurian Robert, Chuanzhu Fan. Neofunctionalization of tandem duplicate genes encoded novel putative b-L-arabinofuranosidases in *Arabidopsis thaliana*. In preparation.   
+*	**Feng Tao**, Vishwanath Sollapura, Laurian Robert, Chuanzhu Fan. Neofunctionalization of tandem duplicate genes encoded novel putative b-L-arabinofuranosidases in *Arabidopsis thaliana*. In review.   
 *	**Feng Tao**, Chuanzhu Fan, Yimin Liu, Subashini Sivakumar, Kurt P. Kowalski, Edward M. Golenberg. Optimization and Application of non-native *Phragmites australis* Transcriptome Assemblies. In review.   
 *	Caroline L. Millins, Eleanor R. Dickinson, Petra Isakovic, Lucy Gilbert, Agnieszka Wojciechowska, Victoria Paterson, **Feng Tao**, Elizabeth Kilbride, Martin Jahn, Richard Birtles, Roman Biek. 2018. [The effect of landscape structure on the prevalence of a tick_borne zoonotic pathogen is influenced by reservoir host traits.](https://parasitesandvectors.biomedcentral.com/articles/10.1186/s13071-018-3200-2) Parasite & Vectors 11:621.    
 *	Wang Jun<sup>#</sup>, **Feng Tao<sup>#</sup>**, Nicholas C. Marowsky, Chuanzhu Fan. 2016. [Evolutionary fates and dynamic functionalization of young duplicate genes in Arabidopsis genomes.](https://academic.oup.com/plphys/article/172/1/427/6115642) Plant Physiology 172: 427-440.
